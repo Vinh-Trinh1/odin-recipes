@@ -1,3 +1,3 @@
-# This links to multiple different recipes
-
-This project shows my HTML skills, showing that I know some front-end items. 
+# This links to multiple different recipes, that allows people to cook. It contains some pictures,
+both unordered and ordered list, along with headings and some other small 
+details. 
